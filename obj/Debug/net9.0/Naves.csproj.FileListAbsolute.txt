@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Naves\bin\Debug\net9.0\Naves.deps.json
+C:\Users\User\Desktop\Naves\bin\Debug\net9.0\Naves.runtimeconfig.json
+C:\Users\User\Desktop\Naves\bin\Debug\net9.0\Naves.dll
+C:\Users\User\Desktop\Naves\bin\Debug\net9.0\Naves.pdb
+C:\Users\User\Desktop\Naves\obj\Debug\net9.0\Naves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Naves\obj\Debug\net9.0\Naves.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Naves\obj\Debug\net9.0\Naves.AssemblyInfo.cs
+C:\Users\User\Desktop\Naves\obj\Debug\net9.0\Naves.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Naves\obj\Debug\net9.0\Naves.dll
+C:\Users\User\Desktop\Naves\obj\Debug\net9.0\refint\Naves.dll
+C:\Users\User\Desktop\Naves\obj\Debug\net9.0\Naves.pdb
+C:\Users\User\Desktop\Naves\obj\Debug\net9.0\Naves.genruntimeconfig.cache
+C:\Users\User\Desktop\Naves\obj\Debug\net9.0\ref\Naves.dll
+C:\Users\User\Desktop\Naves\bin\Debug\net9.0\Naves.exe
